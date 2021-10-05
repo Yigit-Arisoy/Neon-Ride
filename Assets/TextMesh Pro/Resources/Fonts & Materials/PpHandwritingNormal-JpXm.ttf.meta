@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 846da53a30d58a54693674dea2e403e1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PP Handwriting
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: cc3696b0be3fad341a2dc2ee33f2e1cd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

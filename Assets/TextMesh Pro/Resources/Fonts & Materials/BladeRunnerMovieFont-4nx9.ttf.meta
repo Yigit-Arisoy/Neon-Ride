@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 7d9fdc4ee3dd4eb478da51b7bc50315d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Blade Runner Movie Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ab21109f48c44f64e88d2354eb5fa398, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
